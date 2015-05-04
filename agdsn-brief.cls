@@ -79,8 +79,8 @@ parskip=full%
   \setkomavar{agdsn_address}{Wundtstra{\ss}e 5\\01217 Dresden}%
   \setkomavar{agdsn_logo}{\includegraphics[width=.5\textwidth]{wundtstrasse_logo}}%
 }%
-% Sektion Wundtstrasse
-\newcommand\agdsn@wundtstrasse{%
+% Sektion Zeunerstrasse
+\newcommand\agdsn@zeunerstrasse{%
   \setkomavar{agdsn_division}{Sektion Zeunerstra{\ss}e}%
   \setkomavar{agdsn_account}{3120263876}%
   \setkomavar{agdsn_blz}{85050300}%

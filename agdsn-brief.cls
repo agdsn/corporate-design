@@ -120,7 +120,7 @@ parskip=full%
 \RequirePackage[ngerman]{babel}
 \RequirePackage{datetime}
 \RequirePackage{fixltx2e}
-\RequirePackage{enumitem}
+\RequirePackage[inline]{enumitem}
 \RequirePackage{graphicx}
 \RequirePackage{array}
 \RequirePackage{multicol}

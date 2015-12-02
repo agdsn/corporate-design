@@ -1,18 +1,7 @@
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{agdsn-brief}[2015/03/03 v1.0]
+\ProvidesClass{agdsn-brief}[2015/12/02 v1.1]
 
 \RequirePackage{kvoptions}
-\PassOptionsToClass{%
-paper=a4,%
-version=last,%
-fromalign=right,%
-fromrule=on,
-fromlogo=true,%
-fromurl=true,%
-fromemail=true,%
-fontsize=12pt,%
-parskip=full%
-}{scrlttr2}
 
 % AG DSN Global
 \newcommand\agdsn@global{%
@@ -111,7 +100,17 @@ parskip=full%
 \ProcessOptions
 \ProcessKeyvalOptions*
 
-\LoadClassWithOptions{scrlttr2}
+\LoadClass[
+paper=a4,%
+version=last,%
+fromalign=right,%
+fromrule=on,
+fromlogo=true,%
+fromurl=true,%
+fromemail=true,%
+fontsize=12pt,%
+parskip=full%
+]{scrlttr2}
 \RequirePackage[utf8]{inputenc}
 \RequirePackage[T1]{fontenc}
 \RequirePackage{tgheros}

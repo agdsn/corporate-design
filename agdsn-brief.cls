@@ -42,7 +42,7 @@
   \setkomavar{agdsn_email}{gerok@wh17.tu-dresden.de}%
   \setkomavar{agdsn_url}{\url{https://www.agdsn.de}}%
   \setkomavar{agdsn_address}{Gerokstra{\ss}e 38\\01307 Dresden}%
-  \setkomavar{agdsn_logo}{\includegraphics[width=.5\textwidth]{borsbergstrasse_logo}}%
+  \setkomavar{agdsn_logo}{\includegraphics[width=.5\textwidth]{gerokstrasse_logo}}%
 }%
 % Sektion Hochschulstrasse
 \newcommand\agdsn@hochschulstrasse{%

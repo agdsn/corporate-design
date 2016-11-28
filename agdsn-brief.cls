@@ -6,9 +6,9 @@
 % AG DSN Global
 \newcommand\agdsn@global{%
   \setkomavar{agdsn_division}{}%
-  \setkomavar{agdsn_account}{3120241899}%
+  \setkomavar{agdsn_account}{3120219540}%
   \setkomavar{agdsn_blz}{85050300}%
-  \setkomavar{agdsn_iban}{DE96850503003120241899}%
+  \setkomavar{agdsn_iban}{DE61850503003120219540}%
   \setkomavar{agdsn_bic}{OSDDDE81XXX}%
   \setkomavar{agdsn_email}{vorstand@agdsn.de}%
   \setkomavar{agdsn_url}{\url{https://www.agdsn.de}}%

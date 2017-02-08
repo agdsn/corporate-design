@@ -23,12 +23,12 @@
 % Sektion Borsbergstrasse
 \newcommand\agdsn@borsbergstrasse{%
   \setkomavar{agdsn_division}{Sektion Borsbergstra{\ss}e}%
-  \setkomavar{agdsn_account}{3120241864}%
+  \setkomavar{agdsn_account}{3120219540}%
   \setkomavar{agdsn_blz}{85050300}%
-  \setkomavar{agdsn_iban}{DE71850503003120241864}%
+  \setkomavar{agdsn_iban}{DE61850503003120219540}%
   \setkomavar{agdsn_bic}{OSDDDE81XXX}%
-  \setkomavar{agdsn_email}{support@wh2.tu-dresden.de}%
-  \setkomavar{agdsn_url}{\url{http://www.wh10.tu-dresden.de}}%
+  \setkomavar{agdsn_email}{support@agdsn.de}%
+  \setkomavar{agdsn_url}{\url{https://www.agdsn.de}}%
   \setkomavar{agdsn_address}{Borsbergstra{\ss}e 34\\01309 Dresden}%
   \setkomavar{agdsn_logo}{\includegraphics[width=.5\textwidth]{borsbergstrasse_logo}}%
 }%
@@ -39,7 +39,7 @@
   \setkomavar{agdsn_blz}{85050300}%
   \setkomavar{agdsn_iban}{DE33850503003120230811}%
   \setkomavar{agdsn_bic}{OSDDDE81XXX}%
-  \setkomavar{agdsn_email}{gerok@wh17.tu-dresden.de}%
+  \setkomavar{agdsn_email}{support@agdsn.de}%
   \setkomavar{agdsn_url}{\url{https://www.agdsn.de}}%
   \setkomavar{agdsn_address}{Gerokstra{\ss}e 38\\01307 Dresden}%
   \setkomavar{agdsn_logo}{\includegraphics[width=.5\textwidth]{gerokstrasse_logo}}%
@@ -51,8 +51,8 @@
   \setkomavar{agdsn_blz}{85050300}%
   \setkomavar{agdsn_iban}{DE40850503003120241937}%
   \setkomavar{agdsn_bic}{OSDDDE81XXX}%
-  \setkomavar{agdsn_email}{support@wh12.tu-dresden.de}%
-  \setkomavar{agdsn_url}{\url{http://www.wh12.tu-dresden.de}}%
+  \setkomavar{agdsn_email}{support@agdsn.de}%
+  \setkomavar{agdsn_url}{\url{http://www.agdsn.de}}%
   \setkomavar{agdsn_address}{Hochschulstra{\ss}e 48\\01069 Dresden}%
   \setkomavar{agdsn_logo}{\includegraphics[width=.5\textwidth]{hochschulstrasse_logo}}%
 }%
@@ -63,7 +63,7 @@
   \setkomavar{agdsn_blz}{85050300}%
   \setkomavar{agdsn_iban}{DE61850503003120219540}%
   \setkomavar{agdsn_bic}{OSDDDE81XXX}%
-  \setkomavar{agdsn_email}{support@wh2.tu-dresden.de}%
+  \setkomavar{agdsn_email}{support@agdsn.de}%
   \setkomavar{agdsn_url}{\url{https://www.agdsn.de}}%
   \setkomavar{agdsn_address}{Wundtstra{\ss}e 5\\01217 Dresden}%
   \setkomavar{agdsn_logo}{\includegraphics[width=.5\textwidth]{wundtstrasse_logo}}%
@@ -71,11 +71,11 @@
 % Sektion Zeunerstrasse
 \newcommand\agdsn@zeunerstrasse{%
   \setkomavar{agdsn_division}{Sektion Zeunerstra{\ss}e}%
-  \setkomavar{agdsn_account}{3120263876}%
+  \setkomavar{agdsn_account}{3120219540}%
   \setkomavar{agdsn_blz}{85050300}%
-  \setkomavar{agdsn_iban}{DE66850503003120263876}%
+  \setkomavar{agdsn_iban}{DE61850503003120219540}%
   \setkomavar{agdsn_bic}{OSDDDE81XXX}%
-  \setkomavar{agdsn_email}{support@wh2.tu-dresden.de}%
+  \setkomavar{agdsn_email}{support@agdsn.de}%
   \setkomavar{agdsn_url}{\url{https://www.agdsn.de}}%
   \setkomavar{agdsn_address}{Zeunerstra{\ss}e 1f\\01069 Dresden}%
   \setkomavar{agdsn_logo}{\includegraphics[width=.5\textwidth]{zeunerstrasse_logo}}%

@@ -14,7 +14,7 @@
   \setkomavar{agdsn_url}{\url{https://www.agdsn.de}}%
   \setkomavar{agdsn_address}{%
     Studentenrat der TU Dresden\\%
-    AG DSN\\%
+    %AG DSN\\%
     Helmholtzstra{\ss}e 10\\%
     01069 Dresden%
   }%

@@ -7,8 +7,8 @@
 \newcommand\agdsn@global{%
   \setkomavar{agdsn_division}{}%
   \setkomavar{agdsn_account}{3120219540}%
-  \setkomavar{agdsn_blz}{85050300}%
-  \setkomavar{agdsn_iban}{DE61850503003120219540}%
+  \setkomavar{agdsn_blz}{850 503 00}%
+  \setkomavar{agdsn_iban}{DE61 8505 0300 3120 2195 40}%
   \setkomavar{agdsn_bic}{OSDDDE81XXX}%
   \setkomavar{agdsn_email}{vorstand@agdsn.de}%
   \setkomavar{agdsn_url}{\url{https://www.agdsn.de}}%

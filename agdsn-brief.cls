@@ -13,7 +13,7 @@
   \setkomavar{agdsn_email}{vorstand@agdsn.de}%
   \setkomavar{agdsn_url}{\url{https://agdsn.de}}%
   \setkomavar{agdsn_address}{%
-    Studentenrat der TU Dresden\\%
+    StuRa der TU Dresden\\%
     %AG DSN\\%
     Helmholtzstra{\ss}e 10\\%
     01069 Dresden%
@@ -171,7 +171,7 @@ pdfauthor={Arbeitsgemeinschaft Dresdner Studentennetz},%
   \\[-\baselineskip]\footnotesize
   \rule{\textwidth}{\useplength{fromrulethickness}}
   \begin{tabular}{lllll}
-    \multirow{2}{.3\textwidth}{Arbeitsgemeinschaft des Studentenrats der TU Dresden} & Kto.-Nr. & \usekomavar{agdsn_account} & IBAN & \usekomavar{agdsn_iban} \\
+    \multirow{2}{.3\textwidth}{Arbeitsgemeinschaft des StuRa der TU Dresden} & Kto.-Nr. & \usekomavar{agdsn_account} & IBAN & \usekomavar{agdsn_iban} \\
    & BLZ & \usekomavar{agdsn_blz} & BIC & \usekomavar{agdsn_bic} \\
   \end{tabular}
 }

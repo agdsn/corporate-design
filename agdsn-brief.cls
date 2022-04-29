@@ -11,7 +11,7 @@
   \setkomavar{agdsn_iban}{DE61 8505 0300 3120 2195 40}%
   \setkomavar{agdsn_bic}{OSDDDE81XXX}%
   \setkomavar{agdsn_email}{vorstand@agdsn.de}%
-  \setkomavar{agdsn_url}{\url{https://www.agdsn.de}}%
+  \setkomavar{agdsn_url}{\url{https://agdsn.de}}%
   \setkomavar{agdsn_address}{%
     Studentenrat der TU Dresden\\%
     %AG DSN\\%

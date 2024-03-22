@@ -163,7 +163,7 @@ pdfauthor={Arbeitsgemeinschaft Dresdner Studentennetz},%
   \parbox[b]{\textwidth}{
     \raggedleft\small
     \usekomavar{agdsn_address}\\
-    \ifkomavarempty{agdsn_email}{\usekomavar{agdsn_email}\\}{}
+    \ifkomavarempty{agdsn_email}{}{\usekomavar{agdsn_email}\\}
     \usekomavar{agdsn_url}\\
   }
 }
